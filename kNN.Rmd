@@ -1,0 +1,16 @@
+---
+title: "kNN"
+author: "Daianna González Padilla"
+date: "26/2/2022"
+output: pdf_document
+---
+
+```{python}
+install.packages("reticulate")
+library(reticulate)
+a = "Hello" + " World"
+print(a)
+```
+
+## R Markdown
+
