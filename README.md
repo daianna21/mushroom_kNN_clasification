@@ -16,5 +16,5 @@ Import matplotlib, pandas, numpy, csv and seaborn Python libraries for data proc
 To consult license see [LICENSE](LICENSE) 
 
 ## Contact
-Autor: Daianna González Padilla 
-E-mail: daianna@lcg.unam.mx
+Authors: Daianna González Padilla & Phabel A. López Delgado
+E-mails: daianna@lcg.unam.mx, phabel@lcg.unam.mx
