@@ -9,12 +9,13 @@ Mushroom classification and further selection based on its physical attributes i
 No system requirements needed.
 
 ## Install/Import
-Import **sklear** Python library v1.0.2.
-Import matplotlib, pandas, numpy, csv and seaborn Python libraries for data processing and visualization.
+Import **sklearn** Python library v1.0.2.
+Import **matplotlib**, **pandas**, **numpy**, **csv** and **seaborn** Python libraries for data processing and visualization.
 
 ## License
 To consult license see [LICENSE](LICENSE) 
 
 ## Contact
 Authors: Daianna González Padilla & Phabel A. López Delgado
+
 E-mails: daianna@lcg.unam.mx, phabel@lcg.unam.mx
